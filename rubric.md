@@ -24,13 +24,13 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 1 pt: Uses a canned response when no mirror words detected
 
-**PART** 1 pt: Detects the requested set of mirror words (at minimum)
+**YES** 1 pt: Detects the requested set of mirror words (at minimum)
 
-**PART** 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
+**YES** 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
 
 ### Level 3 (3 pts)
 
-**NO** 1 pt: Makes all appropriate mirror replacements
+**YES** 1 pt: Makes all appropriate mirror replacements
 
 **YES** 1 pt: Stores transcript of the conversation in an array
 
@@ -50,9 +50,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 4 pts: Programs implement interfaces and compile without errors or warnings
 
-**PART** 2 pts: Executes fully & consistently without crashing (exception/freeze)
+**YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-**PART** 2 pt: Complies with style guidelines (missing items 1 pt each):
+**YES** 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       **NO** Classes & class members all have Javadoc header comments
 
